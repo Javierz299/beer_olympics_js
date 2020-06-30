@@ -3,6 +3,7 @@
   }
   
   body {
+      background: black;
     width: 100%;
     margin: auto;
     font-family: "Open Sans",
@@ -13,6 +14,17 @@
   }
 
   /* main html */
+
+  #olympians > p{
+      color: whitesmoke
+  }
+  #olympians > small{
+      color: whitesmoke;
+  }
+  #olympians > h3 {
+    color: whitesmoke;
+
+  }
 
   header{
       min-width: 300px;
@@ -29,11 +41,11 @@
   }
 
 #main_img > h1{
-    color: green;
+    color: whitesmoke;
 }
 
 #welcome > h2{
-    color: green;
+    color: whitesmoke;
 }
 
   #links > span {
@@ -149,13 +161,28 @@
     border-bottom: solid black 1px;
 }
 
+#events{
+    color: whitesmoke;
+
+}
+
 /*event html*/
+
+#rules{
+   color: whitesmoke;
+}
+
+small{
+    color: whitesmoke;
+}
 
 
 
   #footer{
       border-top: solid  black 1px;
       width: 100%;
+      color: whitesmoke;
+
   }
 
   @media only screen and (max-width: 550px){
