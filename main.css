@@ -103,6 +103,43 @@
     grid-template-columns: 1fr 1fr;
 }
 
+.usa_flag{
+    background: url("./imgs/usa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.mexico_flag{
+    background: url("./imgs/mexico.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.australia_flag{
+    background: url("./imgs/australia.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.brazil_flag{
+    background: url("./imgs/brazil.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.germany_flag{
+    background: url("./imgs/germany.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.italy_flag{
+    background: url("./imgs/italy.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 
 /*team html*/
 
@@ -119,4 +156,13 @@
   #footer{
       border-top: solid  black 1px;
       width: 100%;
+  }
+
+  @media only screen and (max-width: 550px){
+    #team_list{
+        max-width: 80%;
+        margin: auto;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
   }
