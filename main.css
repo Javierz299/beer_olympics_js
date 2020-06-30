@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    width: 100%;
+    margin: auto;
+    font-family: "Open Sans",
+    sans-serif; 
+    text-align: center;
+    line-height: 1.5;
+    letter-spacing: 1.3;
+  }
+
+  /* main html */
+  #links > span {
+      text-decoration: underline;
+  }
+
+  #olympians > p {
+      text-decoration: underline;
+  }
+
+ 
+  /* main html */
+
+/*team html*/
+#team_list{
+    max-width: 80%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+ #usa_box{
+    border-left: solid  black 1px;
+    border-bottom: solid  black 1px;
+    border-right: solid  black 1px;
+    max-width: 400px;
+    max-height: 400px;
+ }
+ #mexico_box{
+    border-left: solid  black 1px;
+    border-bottom: solid  black 1px;
+    border-right: solid  black 1px;
+    max-width: 400px;
+    max-height: 400px;
+}
+#australia_box{
+    border-left: solid  black 1px;
+    border-bottom: solid  black 1px;
+    border-right: solid  black 1px;
+    max-width: 400px;
+    max-height: 400px;
+}
+#brazil_box{
+    border-left: solid  black 1px;
+    border-bottom: solid  black 1px;
+    border-right: solid  black 1px;
+    max-width: 400px;
+    max-height: 400px;
+}
+#germany_box{
+    border-left: solid  black 1px;
+    border-bottom: solid  black 1px;
+    border-right: solid  black 1px;
+    max-width: 400px;
+    max-height: 400px;
+}
+#italy_box{
+    border-left: solid  black 1px;
+    border-bottom: solid  black 1px;
+    border-right: solid  black 1px;
+    max-width: 400px;
+    max-height: 400px;
+}
+
+.team_box{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+/*team html*/
+
+/*event html*/
+
+.game_box{
+    border-bottom: solid black 1px;
+}
+
+/*event html*/
+
+
+
+  #footer{
+      border-top: solid  black 1px;
+      width: 100%;
+  }
