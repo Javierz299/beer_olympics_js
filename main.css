@@ -13,6 +13,29 @@
   }
 
   /* main html */
+
+  header{
+      min-width: 300px;
+      text-align: center;
+      margin: auto;
+  }
+
+  #main_img{
+      height: 150px;
+      background: url("./imgs/rings.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+  }
+
+#main_img > h1{
+    color: green;
+}
+
+#welcome > h2{
+    color: green;
+}
+
   #links > span {
       text-decoration: underline;
   }
