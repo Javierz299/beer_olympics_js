@@ -15,15 +15,15 @@ Emily Heller      Borko ?
 USA          MEXICO       AUSTRALIA         BRAZIL      GERMANY
 ----        --------      ----------      ----------   ---------
 javier      steve          austin          Tobias       Borko
-Mallory     Maddy           eva           jake         dylan
+Mallory     Maddy           eva                        dylan
 Sabrina     Emily           Shaunna      Natalie       scott  
 
 
 javi       steve     austin     Tobias    Borko
-Natalie    scott     shaunna    jake      Emily
+Natalie    scott     shaunna              Emily
 eva        maddy     Mallory    Sabrina   dylan
 
 
 javi     steve     austin     Tobias     scott
 maddy    shaunna   Natalie    eva       Emily
-mallory        Borko     Sabrina    dylan
+mallory             Borko     Sabrina    dylan
