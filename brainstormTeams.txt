@@ -21,12 +21,17 @@ Sabrina     Emily           Shaunna      Natalie        boroko
 
 
 javi       steve     austin     Tobias    Borko
-Natalie    scott     shaunna    scott      Emily
+Natalie    scott     shaunna    john       Emily
 eva        maddy     Mallory    Sabrina   dylan
-                                            katie
+                                        katie
 
 
 javi     steve     austin     Tobias     scott
-maddy    shaunna   Natalie    eva       Emily
-mallory  katie    Borko     Sabrina    dylan
-                  John
+maddy    shaunna   Natalie    eva       mallory
+emily     katie     Borko     Sabrina    dylan
+                   John
+
+javi     steve    austin    tobias    dylan
+maddy    Borko    mallory     scott     john
+Natalie  emily    shaunna   eva       Sabrina
+         katie
