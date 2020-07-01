@@ -16,4 +16,14 @@ USA          MEXICO       AUSTRALIA         BRAZIL      GERMANY
 ----        --------      ----------      ----------   ---------
 javier      steve          austin          Tobias       Borko
 Mallory     Maddy           eva           jake         dylan
-Sabrina     Emily           Shaunna      Natalie            
+Sabrina     Emily           Shaunna      Natalie       scott  
+
+
+javi       steve     austin     Tobias    Borko
+Natalie    scott     shaunna    jake      Emily
+eva        maddy     Mallory    Sabrina   dylan
+
+
+javi     steve     austin     Tobias     scott
+maddy    shaunna   Natalie    eva       Emily
+mallory        Borko     Sabrina    dylan
