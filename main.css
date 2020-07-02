@@ -15,6 +15,10 @@
 
   /* main html */
 
+  .links{
+      color: whitesmoke;
+  }
+
   #olympians > p{
       color: whitesmoke
   }
