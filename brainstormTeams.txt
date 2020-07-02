@@ -32,6 +32,6 @@ emily     katie     Borko     Sabrina    dylan
                    John
 
 javi     steve    austin    tobias    dylan
-maddy    Borko    mallory     scott     john
-Natalie  emily    shaunna   eva       Sabrina
+maddy    Borko    mallory   scott     john
+Natalie  emily   shaunna   eva       Sabrina
          katie
